@@ -1,0 +1,15 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=./icon.icns"
+  },
+  "dependencies": {
+    "electron": "^22.0.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^17.1.1"
+  }
+}
