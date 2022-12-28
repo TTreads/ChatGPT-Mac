@@ -4,6 +4,7 @@ Simple app made with Electron
 
 ## Download:
 - [Mac Intel .dmg](https://github.com/TTreads/ChatGPT-Mac/releases/download/v0.0.1/ChatGPT.dmg)
+- [Mac Arm64 .dmg](https://github.com/TTreads/ChatGPT-Mac/releases/download/v0.0.1/chatgpt-arm64.dmg)
 
 
 
